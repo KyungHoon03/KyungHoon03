@@ -83,15 +83,14 @@
 ---
 
 ## 🚀 Featured Projects
-- **ByteCookie** 🍪: 시니어 맞춤 채용 플랫폼 (Spring Boot + AWS + RDS + GPT API)  
-- **AirAction** 🌫️: 날씨·공기질 기반 라이프스타일 추천 서비스 (Oracle Cloud + Docker + Kakao API)  
-- **Re-Fly** 🛠️: 자동 배포 & 장애 추적 시스템 (GitHub Actions + AWS + Docker)  
-- **Blendish** 🍲: 음식 취향 기반 가상 셰프 프로젝트 (AI + UX 기획)  
-- **SENiorNAVi** 👴: 고령자 대상 진로 탐색 AI 플랫폼 (ML + Firebase + Flutter)  
+- **ByteCookie** 🍪: "Re-Fly" 시니어 맞춤 채용 플랫폼 (Spring Boot + AWS + RDS + Docker + GPT API + Docker)  
+- **AirAction** 🌫️: 날씨·공기질 기반 라이프스타일 추천 서비스 (Oracle Cloud + Docker + Kakao API + GPT API + 공공데이터 API)  
+- **Blendish** 🍲: 음식 취향 기반 가상 셰프 프로젝트 (AI + UX 기획) [Blendish 소개 페이지](https://spangle-celery-462.notion.site/Blendish-1b1f7f6804ac80f7ba69e45444b536f0?source=copy_link)
+- **알죠** ⏰: 여러 사용자가 동시에 참여할 수 있는 공유 알람을 핵심으로 하는 소셜 알람 애플리케이션 (Spring Boot + Oracle Cloud + Docker)[알죠 소개 페이지](https://spotty-rodent-822.notion.site/About-ASAP-23d439e0b2de80429980f40cb31c12ff?source=copy_link)
 
 ---
 
 ## ✨ Contact
-- 📧 Email: your.email@example.com  
+- 📧 Email: tw21lkh@gmail.com  
 - 📝 Blog: [Tistory Blog](https://hooklee.tistory.com/)  
 - 💼 Portfolio: [Notion Portfolio](https://spotty-rodent-822.notion.site/HOOKLEE-s-Portpolio-253439e0b2de80398f0cee21fedd18bc?source=copy_link)  
