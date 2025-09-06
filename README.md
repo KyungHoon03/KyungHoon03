@@ -3,6 +3,7 @@
 <!--
 **KyungHoon03/KyungHoon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+-->
 <div align="center">
   
   # 👋 Hi, I'm **KyungHoon Lee (경훈)**
@@ -94,5 +95,3 @@
 - 📧 Email: your.email@example.com  
 - 📝 Blog: [Tistory Blog](https://yourblog.tistory.com)  
 - 💼 Portfolio: [Notion Portfolio](https://www.notion.so/yourportfolio)  
-
--->
