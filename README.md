@@ -11,7 +11,7 @@
   
   ---
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=KyungHoon03&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -77,8 +77,8 @@
 
 ## 📊 GitHub Stats
 
-![KyungHoon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight)
+![KyungHoon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KyungHoon03&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHoon03&layout=compact&theme=tokyonight)
 
 ---
 
@@ -93,5 +93,5 @@
 
 ## ✨ Contact
 - 📧 Email: your.email@example.com  
-- 📝 Blog: [Tistory Blog](https://yourblog.tistory.com)  
-- 💼 Portfolio: [Notion Portfolio](https://www.notion.so/yourportfolio)  
+- 📝 Blog: [Tistory Blog](https://hooklee.tistory.com/)  
+- 💼 Portfolio: [Notion Portfolio](https://spotty-rodent-822.notion.site/HOOKLEE-s-Portpolio-253439e0b2de80398f0cee21fedd18bc?source=copy_link)  
