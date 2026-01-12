@@ -82,11 +82,22 @@
 
 ---
 
-## 🚀 Featured Projects
-- **ByteCookie** 🍪: "Re-Fly" 시니어 맞춤 채용 플랫폼 (Spring Boot + AWS + RDS + Docker + GPT API + Docker)  
-- **AirAction** 🌫️: 날씨·공기질 기반 라이프스타일 추천 서비스 (Oracle Cloud + Docker + Kakao API + GPT API + 공공데이터 API)  
-- **Blendish** 🍲: 음식 취향 기반 가상 셰프 프로젝트 (AI + UX 기획) [Blendish 소개 페이지](https://spangle-celery-462.notion.site/Blendish-1b1f7f6804ac80f7ba69e45444b536f0?source=copy_link)
-- **알죠** ⏰: 여러 사용자가 동시에 참여할 수 있는 공유 알람을 핵심으로 하는 소셜 알람 애플리케이션 (Spring Boot + Oracle Cloud + Docker)[알죠 소개 페이지](https://spotty-rodent-822.notion.site/About-ASAP-23d439e0b2de80429980f40cb31c12ff?source=copy_link)
+## 🚀 Featured Projects (대표 프로젝트)
+- **2025년 ByteCookie** 🍪: "Re-Fly" 시니어 맞춤 채용 플랫폼 (Spring Boot + AWS + RDS + Docker + GPT API + Docker)  
+- **2025년 AirAction** 🌫️: 날씨·공기질 기반 라이프스타일 추천 서비스 (Oracle Cloud + Docker + Kakao API + GPT API + 공공데이터 API)  
+- **2025년 Blendish** 🍲: 음식 취향 기반 가상 셰프 프로젝트 (AI + UX 기획) [Blendish 소개 페이지](https://spangle-celery-462.notion.site/Blendish-1b1f7f6804ac80f7ba69e45444b536f0?source=copy_link)
+- ### ⏰ 알죠(ASAP) — 다중 사용자 참여형 공유 알람 서비스
+- **한 줄 요약**: 여러 사용자가 동시에 참여/공유하는 알람(스케줄/약속/리마인드) 중심 서비스
+- **내 역할**: 백엔드 API, 데이터 모델 설계, 배포/운영(Oracle Cloud + Docker 등)
+- **핵심 기능**
+  - 그룹/알람 생성 및 참여자 관리
+  - 알람 트리거/상태 관리(푸시/스케줄링 방식은 구현 기준으로 기재)
+  - 사용자별 알람 피드/히스토리 관리
+- **Tech**: Spring Boot, Oracle Cloud, Docker
+- **Links**
+  - Docs: https://spotty-rodent-822.notion.site/About-ASAP-23d439e0b2de80429980f40cb31c12ff?source=copy_link
+
+- **2025년도 알죠** ⏰: 여러 사용자가 동시에 참여할 수 있는 공유 알람을 핵심으로 하는 소셜 알람 애플리케이션 (Spring Boot + Oracle Cloud + Docker)[알죠 소개 페이지](https://spotty-rodent-822.notion.site/About-ASAP-23d439e0b2de80429980f40cb31c12ff?source=copy_link)
 
 ---
 
