@@ -85,21 +85,27 @@
 ## 🚀 Featured Projects (대표 프로젝트)
 
 - 🏆 **W@ndering** — AI 성격(OCEAN) 기반 스토리 & 추천 게임 *(Grand Prize)*
+- 
   `Spring Boot · GPT API · AWS RDS · Oracle VM · MySQL · Docker`
 
 - 🍱 **푸다(PUDA)** — 남은 음식 기부 매칭 플랫폼 (3-role 서비스)
+- 
   `Spring Boot · JPA · MySQL · Image/OCR · Docker` [푸다 작업 페이지](https://github.com/Ganzithon-team6)
 
 - **2025년 ByteCookie** 🍪: "Re-Fly" 시니어 맞춤 채용 플랫폼
+- 
   `Spring Boot · AWS RDS · Oracle VM · Docker · GPT API` [Re-Fly 작업 페이지](https://github.com/CUKLLteam3/ByteCookieServer)
 
 - **2025년 AirAction** 🌫️: 날씨·공기질 기반 라이프스타일 추천 서비스
+- 
   `Oracle Cloud · Docker · Kakao API · GPT API · 공공데이터 API` [AirAction 작업 페이지](https://github.com/CUKLLteam3/Backend)
 
 - **2025년 Blendish** 🍲: 음식 취향 기반 가상 셰프 프로젝트
+- 
   `AI + UX 기획` [Blendish 소개 페이지](https://spangle-celery-462.notion.site/Blendish-1b1f7f6804ac80f7ba69e45444b536f0?source=copy_link)
 
 - **2025년 알죠** ⏰: 여러 사용자가 동시에 참여할 수 있는 공유 알람 애플리케이션
+- 
   `Spring Boot · Oracle Cloud · Docker` [알죠 소개 페이지](https://spotty-rodent-822.notion.site/About-ASAP-23d439e0b2de80429980f40cb31c12ff?source=copy_link)
 
 ---
