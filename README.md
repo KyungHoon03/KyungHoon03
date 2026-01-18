@@ -88,7 +88,7 @@
 - **2025년 W@ndering** 🏆: AI 성격(OCEAN) 기반 스토리 & 추천 게임 *(Grand Prize)*<br>
   `Spring Boot · GPT API · AWS RDS · Oracle VM · MySQL · Docker`[W@ndering 작업 페이지](https://github.com/W-ndering)
 
-- **2025년 푸다(PUDA)**🍱: 남은 음식 기부 매칭 플랫폼 (3-role 서비스)<br>
+- **2025년 푸다(PUDA)** 🍱: 남은 음식 기부 매칭 플랫폼 (3-role 서비스)<br>
   `Spring Boot · JPA · MySQL · Image/OCR · Docker` [푸다 작업 페이지](https://github.com/Ganzithon-team6)
 
 - **2025년 ByteCookie** 🍪: "Re-Fly" 시니어 맞춤 채용 플랫폼<br>
